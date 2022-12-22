@@ -40,3 +40,11 @@ List of tasks
 <div align="center">
   <img align="center" alt="Demonstração do projeto" src="https://user-images.githubusercontent.com/117778237/209224605-30f8756b-13ef-4842-b859-1e363831274e.PNG"/>
 </div>
+
+<h2>🤝 Contribuindo </h2>
+
+* Conte a outras pessoas sobre este projeto 📢
+* Dê estrela no projeto ⭐️
+
+<h4 align="center">📌 Finalizado</h4>
+
