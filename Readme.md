@@ -5,8 +5,7 @@ List of tasks
 <h1  align="center">Social Media</h1>
 
 <div align="center">
-<img height="400px" src="(https://user-images.githubusercontent.com/117778237/209223880-5ae8ceac-f8f0-4fc0-94af-08785efbc078.PNG)
-" />
+<img height="400px" src="https://user-images.githubusercontent.com/117778237/209223880-5ae8ceac-f8f0-4fc0-94af-08785efbc078.PNG"/>
 </div>
 
 
