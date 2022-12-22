@@ -38,6 +38,5 @@ List of tasks
 <p>O comentário é adicionado a publicação e pode ser curtido</p>
 
 <div align="center">
-  <img align="center" alt="Demonstração do projeto" src="https://user-images.githubusercontent.com/117778237/209224605-30f8756b-13ef-4842-b859-1e363831274e.PNG
-"/>
+  <img align="center" alt="Demonstração do projeto" src="https://user-images.githubusercontent.com/117778237/209224605-30f8756b-13ef-4842-b859-1e363831274e.PNG"/>
 </div>
