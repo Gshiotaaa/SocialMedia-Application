@@ -2,15 +2,15 @@
 List of tasks 
 
 
-<h1  align="center">ToDoList</h1>
+<h1  align="center">Social Media</h1>
 
 <div align="center">
-<img height="400px" src="![Capturar](https://user-images.githubusercontent.com/117778237/209223880-5ae8ceac-f8f0-4fc0-94af-08785efbc078.PNG)
+<img height="400px" src="https://user-images.githubusercontent.com/117778237/209223880-5ae8ceac-f8f0-4fc0-94af-08785efbc078.PNG
 " />
 </div>
 
 
-<p align="center">Social Media</p>
+<p align="center">Social Media com comentários e curtidas</p>
 
 
 <h2>🚀 Objetivos</h2>
@@ -39,6 +39,6 @@ List of tasks
 <p>O comentário é adicionado a publicação e pode ser curtido</p>
 
 <div align="center">
-  <img align="center" alt="Demonstração do projeto" src="![REDESOCIAL](https://user-images.githubusercontent.com/117778237/209224605-30f8756b-13ef-4842-b859-1e363831274e.PNG)
+  <img align="center" alt="Demonstração do projeto" src="https://user-images.githubusercontent.com/117778237/209224605-30f8756b-13ef-4842-b859-1e363831274e.PNG
 "/>
 </div>
